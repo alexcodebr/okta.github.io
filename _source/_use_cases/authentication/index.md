@@ -4,6 +4,10 @@ weight: 1
 title: Authentication
 excerpt: Overview of the ways Okta can be used to authenticate users depending on your needs.
 ---
+# Adding something new in the docs
+
+This is a Platform corse test
+
 
 # Authentication with Okta
 
